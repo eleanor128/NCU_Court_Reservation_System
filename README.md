@@ -2,6 +2,7 @@
 可以把example那個分支的程式碼clone下來自己試試
 
 
+
 # 有用學習資源:
 * Laravele官網(有詳細說明各種東東的用法): https://laravel.com/docs/9.x
 * 有大神的Tip https://github.com/LaravelDaily/laravel-tips.git 
