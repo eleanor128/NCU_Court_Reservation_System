@@ -1,5 +1,6 @@
 # 公告
 可以把example那個分支的程式碼clone下來自己試試
+Laravel的使用筆記: https://hackmd.io/@Eleanor128/SJ6BDYqUo 大家有學到新東西都可以上去編輯
 
 
 
